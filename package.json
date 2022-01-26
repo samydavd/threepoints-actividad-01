@@ -1,0 +1,23 @@
+{
+  "name": "threepoints-actividad-01",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samydavd/threepoints-actividad-01.git"
+  },
+  "keywords": [
+    "three",
+    "points"
+  ],
+  "author": "Samy David El Aridi Luzardo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samydavd/threepoints-actividad-01/issues"
+  },
+  "homepage": "https://github.com/samydavd/threepoints-actividad-01#readme"
+}
