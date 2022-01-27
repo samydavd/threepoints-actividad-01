@@ -8,3 +8,9 @@ class A {
 class B {
     constructor () {}
 }
+
+class C {
+    constructor () { 
+
+    }
+}
