@@ -4,3 +4,9 @@ class A {
         this.bar = bar;
     }
 }
+
+class C {
+    constructor () { 
+
+    }
+}
